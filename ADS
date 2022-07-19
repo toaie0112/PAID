@@ -24,7 +24,7 @@ ImageLabel.Position = UDim2.new(0.357819915, 0, 0.156405985, 0)
 ImageLabel.Size = UDim2.new(0, 557, 0, 389)
 ImageLabel.Image = "http://www.roblox.com/asset/?id=10276174053"
 
-wait(10)
+wait(5)
 
 game:GetService("Players").LocalPlayer.PlayerGui.TurtleHub:Destroy()
 
