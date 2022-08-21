@@ -1,4 +1,4 @@
-game:GetService("Players").LocalPlayer:Kick("Mango Hub : Script Down")
+
 
 -- Gui to Lua
 -- Version: 3.2
